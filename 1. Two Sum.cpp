@@ -8,6 +8,7 @@ public:
                     ret.push_back(i);
                     ret.push_back(j);
                 }
+                break;
             }
         }
         return ret;
